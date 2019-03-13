@@ -1,0 +1,10 @@
+h1{
+    color: #707070;
+}
+p#title{
+    color: #0A0A0A;
+}
+div.main {
+    padding: 5px;
+    margin: 0;
+}
